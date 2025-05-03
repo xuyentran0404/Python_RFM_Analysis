@@ -1,5 +1,4 @@
 # Python_RFM_Analysis: Customer Segmentation
-Please see the coding file attached or reach this link: 
 ## I. Introduction
 ### 1. Business question
 - AdventureWorks is a global retail brand that operates across multiple regions and offers a wide range of products. As the holiday season approaches, the Marketing Team plans to launch targeted campaigns during Christmas and New Year to reward loyal customers and convert potential buyers into repeat customers.
@@ -13,8 +12,6 @@ Dataset includes 4 different related tables, including: transaction information,
 ![image](https://github.com/user-attachments/assets/3fc9d91e-8fee-4ea4-aa80-16324ded38e7)
 - RFM_rank information dataframe
 ![image](https://github.com/user-attachments/assets/fa45e52e-8c0f-4f58-b93f-5ebb58de2db9)
-
-
 
 ### 3. RFM Model
 RFM is a technique used to assess customer value, widely applied in database and direct marketing, especially within the retail and professional services sectors. In an RFM analysis, customers are assigned numerical scores for each of these three dimensions, typically ranging from 1 to 5, where higher scores indicate stronger performance. Customers with the highest scores across all categories are considered the most valuable. The acronym RFM stands for:
